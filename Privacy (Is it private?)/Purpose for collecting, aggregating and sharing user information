@@ -1,0 +1,26 @@
+testName: Purpose Specification  
+criterias:
+  - criteriaName: The company clearly discloses why it collects, aggregates and shares user information.
+    indicators:
+      - indicator: >-
+          The company clearly discloses its purpose for collecting user information.
+          The company clearly discloses its purpose for sharing user information.
+          The company clearly discloses the purpose for combining user information from various services (if it does combine).
+        procedures:
+          - >-
+            Investigation and analysis of publicly available documentation to
+            determine what the company clearly discloses.
+            
+testName: Limitation on Information Use and Sharing
+criterias:
+  - criteriaName: The company clearly discloses that it limits use of information to specified purposes.   
+    indicators:
+      - indicator: >-
+          The company clearly discloses that it limits its use of user information to the purposes for which it was collected.
+          The company clearly discloses that it will obtain consent if it uses user information for additional purposes, for which it was not collected. 
+          The company clearly discloses that it shares user information as is reasonably necessary for the service to work. 
+          
+        procedures:
+          - >-
+            Investigation and analysis of publicly available documentation to
+            determine what the company clearly discloses.
